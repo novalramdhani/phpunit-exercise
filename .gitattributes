@@ -1,0 +1,5 @@
+*text=auto
+
+*.php diff=php
+*.xml diff=xml
+*.json diff=json
